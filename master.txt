@@ -1,2 +1,4 @@
 master
 merging 1
+merging 2
+merging 3
